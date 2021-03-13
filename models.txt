@@ -1,4 +1,0 @@
-efficientnet-b7 - модель классификации изображений Imagenet на 1000 классов, softmax loss, обучена на Imagenet, не видела датасет veriwild
-type_model - модель классификации транспортных средств по типу на 10 классов, softmax loss,  частично обучена на veriwild
-color_model - модель регрессии для определения цвета транспортных средств в формате RGB, mse loss, частично обучена на veriwild
-osnet - модель reid людей, животных и машин, softmax loss, не видела датасет veriwild
